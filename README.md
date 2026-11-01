@@ -110,15 +110,6 @@ int main() {
 }
 ```
 
-## Compilación
-
-Todos los TADs son cabeceras, así que basta con incluirlas desde tu `main.cpp`:
-
-```bash
-g++ -std=c++11 -Wall main.cpp -o main
-./main
-```
-
 ## Estructura del repositorio
 
 ```
